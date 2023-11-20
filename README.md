@@ -70,5 +70,5 @@ Questions:
 67. Müşterilerimi ülkeye göre sıralıyorum:
 68. Ürünlerimi en pahalıdan en ucuza doğru sıralama, sonuç olarak ürün adı ve fiyatını istiyoruz
 69. Ürünlerimi en pahalıdan en ucuza doğru sıralasın, ama stoklarını küçükten-büyüğe doğru göstersin sonuç olarak ürün adı ve fiyatını istiyoruz
-70. 1 Numaralı kategoride kaç ürün vardır..?
-71. Kaç farklı ülkeye ihracat yapıyorum..?
+70. 1 Numaralı kategoride kaç ürün vardır?
+71. Kaç farklı ülkeye ihracat yapıyorum?
